@@ -39,8 +39,18 @@ cask install xtrafinder
 
 
 # install application
-install neginx
+install ag
+install imagemagick
+install jq
 install mysql
+install neginx
+install php-build
+install phpenv
+install rbenv
+install ruby-build
+install tig
+install tmux
+install wget
 
 
 cleanup

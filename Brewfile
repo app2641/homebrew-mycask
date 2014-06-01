@@ -16,7 +16,7 @@ cask install bettertouchtool
 cask install caffeine
 cask install cheatsheet
 cask install clipmenu
-cask install cot-editor
+#cask install cot-editor
 cask install dash
 cask install dropbox
 cask install evernote
@@ -39,8 +39,16 @@ cask install xtrafinder
 
 
 # install application
-install neginx
+install ag
+install awscli
+install aws-as
+install ec2-api-tools
+install git
+install nginx
 install mysql
+install python
+install tig
+install wget
 
 
 cleanup

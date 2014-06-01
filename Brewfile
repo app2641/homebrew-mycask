@@ -44,10 +44,17 @@ install awscli
 install aws-as
 install ec2-api-tools
 install git
-install nginx
+install imagemagick
+install jq
 install mysql
+install nginx
+install php-build
+install phpenv
 install python
+install rbenv
+install ruby-build
 install tig
+install tmux
 install wget
 
 

@@ -16,7 +16,8 @@ cask install bettertouchtool
 cask install caffeine
 cask install cheatsheet
 cask install clipmenu
-#cask install cot-editor
+cask install colors
+cask install cot-editor
 cask install dash
 cask install dropbox
 cask install evernote

@@ -27,7 +27,7 @@ cask install google-japanese-ime
 cask install gyazo
 cask install hyperswitch
 cask install kobito
-cask install macvim
+#cask install macvim --with-lua
 cask install mou
 cask install sequel-pro
 cask install sublime-text
@@ -46,8 +46,10 @@ install ec2-api-tools
 install git
 install imagemagick
 install jq
+install macvim --with-lua
 install mysql
 install nginx
+install php56 --with-mysql --with-fpm
 install php-build
 install phpenv
 install python

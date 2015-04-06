@@ -17,7 +17,7 @@ cask install caffeine
 cask install cheatsheet
 cask install clipmenu
 cask install colors
-cask install cot-editor
+#cask install cot-editor
 cask install dash
 cask install dropbox
 cask install evernote
@@ -28,6 +28,7 @@ cask install google-japanese-ime
 cask install gyazo
 cask install hyperswitch
 cask install kobito
+cask install licecap
 #cask install macvim --with-lua
 cask install mou
 cask install sequel-pro
@@ -42,8 +43,8 @@ cask install xtrafinder
 # install application
 install ag
 install awscli
-install aws-as
-install ec2-api-tools
+#install aws-as
+#install ec2-api-tools
 install git
 install imagemagick
 install jq

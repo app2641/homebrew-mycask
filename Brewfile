@@ -12,6 +12,7 @@ cask install adobe-air
 cask install adobe-reader
 cask install alfred
 cask install appcleaner
+cask install bathyscaphe
 cask install bettertouchtool
 cask install caffeine
 cask install cheatsheet
